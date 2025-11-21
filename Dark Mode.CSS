@@ -1,0 +1,21 @@
+/* DARK MODE */
+body.dark {
+    background: #1a1a1a;
+    color: white;
+}
+
+body.dark .navbar,
+body.dark .panel {
+    background: #000;
+}
+
+body.dark .box {
+    background: #333;
+    color: white;
+}
+
+.dark-btn {
+    cursor: pointer;
+    padding: 10px;
+    color: yellow;
+}
